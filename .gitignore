@@ -1,2 +1,5 @@
 /classes
+/out
 /*.iml
+*.txt
+/.idea
